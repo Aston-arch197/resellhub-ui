@@ -25,7 +25,11 @@ export default function HeroSection() {
               </Button>
             </Link>
             <Link to="/sell">
+<<<<<<< HEAD
               <Button size="lg" variant="outline" className="bg-red-500 text-white hover:bg-primary-foreground/10 rounded-xl font-semibold px-6 gap-2">
+=======
+              <Button size="lg" variant="outline" className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 rounded-xl font-semibold px-6 gap-2">
+>>>>>>> 3247d901ad9a89aa2c007f515d3ae5dd024a4efc
                 Sell an Item
               </Button>
             </Link>
